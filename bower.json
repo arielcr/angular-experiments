@@ -1,0 +1,16 @@
+{
+  "name": "angular",
+  "authors": [
+    "Ariel Orozco <aorozco@fh.org>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.3"
+  }
+}
